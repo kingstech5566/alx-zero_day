@@ -1,1 +1,1 @@
-My first readme
+I'm Kingsley a student of ALX 
